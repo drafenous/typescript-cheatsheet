@@ -6,6 +6,10 @@ A linguagem javascript possui definições de variáveis do tipo dinâmicas, por
 
 A intenção do typescript é a melhoria de definição dos recursos componentizados dentro de um projeto, minimizando a possibilidade de erros dentro dos parametros de uma função ou dados dentro de algum object.
 
+## Posso testar os códigos aqui?
+Sim, os códigos que são exibidos neste cheatsheet sempre são testados e executados no TypeScript Playground, acessível no site:
+https://www.typescriptlang.org/play
+
 ## O que é este repositório?
 Este repositório é um "guia de bolso" que resolvi compartilhar com a comunidade, com algumas utilidades de recursos do typescript.
 
