@@ -26,7 +26,7 @@ const nome: string;
 // você pode também atribuir diretamente um valor:
 const idade: number = 26
 ```
-Existem diversos tipos de tipagens, como: `string, number, object, any, null, undefined, boolean`
+Existem diversos tipos de tipagens, como: `string, number, object, any, null, undefined, boolean` entre vários outros "tipos de tipagens"
 
 ## Tipando parâmetros:
 Um dos pricipais recursos do TS é você poder criar tipagens para os seus parâmetros de uma função, o benefício disso, é que você 'obriga' o seu parceiro de equipe que está aproveitando este código a evitar falhas de algum parâmetro passando da forma inválida, fora de ordem e etc...
