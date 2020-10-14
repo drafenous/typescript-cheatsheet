@@ -10,6 +10,8 @@ A intenção do typescript é a melhoria de definição dos recursos componentiz
 Sim, os códigos que são exibidos neste cheatsheet sempre são testados e executados no TypeScript Playground, acessível no site:
 https://www.typescriptlang.org/play
 
+Lá você está passível de testes a todos os recursos do TS.
+
 ## O que é este repositório?
 Este repositório é um "guia de bolso" que resolvi compartilhar com a comunidade, com algumas utilidades de recursos do typescript.
 
